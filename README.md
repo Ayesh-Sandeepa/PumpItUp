@@ -1,5 +1,7 @@
 ## PumpItUp
 
+[Git Repo:](https://github.com/Ayesh-Sandeepa/PumpItUp.git)
+
 This is a model trained using RandomForest to the Pump It Up, Data Mining Water Table Competition. 
 
 In the data preprocessing part,
