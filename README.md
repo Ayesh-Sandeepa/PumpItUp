@@ -13,6 +13,6 @@ and for the numerical data the missing values are replaced from the mean of each
 Next, for the training I use RandomForesetModel with 300 estimators. And it is used finally to predict the functionality of the pipes in the test set.
 
 
-![This is an image](/Pump_It_UP.png)
+![This is an image](./Pump_It_Up.png)
 
 
