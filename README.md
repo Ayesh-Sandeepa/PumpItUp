@@ -17,6 +17,6 @@ Then for the training RandomForesetModel with 300 estimators is used.
 And it is used finally to predict the functionality of the pipes in the test set.
 
 
-![This is an image](./Pump_It_Up.png)
+![This is an image](./Pump_It_Up1.png)
 
 
