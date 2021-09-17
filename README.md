@@ -14,4 +14,4 @@ This is how the preprocessing is done.
 
 Next, for the training I use RandomForesetModel with 300 estimators. And it is used finally to predict the functionality of the pipes in the test set.
 
-![A](./Pump It Up.png?raw=true "Title")
+![plot](./Pump It Up.png)
