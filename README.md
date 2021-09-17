@@ -14,4 +14,4 @@ This is how the preprocessing is done.
 
 Next, for the training I use RandomForesetModel with 300 estimators. And it is used finally to predict the functionality of the pipes in the test set.
 
-![Test Image 4](httpshttps://github.com/Ayesh-Sandeepa/PumpItUp/blob/main/Pump_It_Up.png 1.4k)
+![Test Image 4](httpshttps://github.com/Ayesh-Sandeepa/PumpItUp/Pump_It_Up.png 1.4k)
