@@ -9,8 +9,12 @@ and for the numerical data the missing values are replaced from the mean of each
 3. And according to those observations, and with manual observations, the columns are important to train the model are selected. 
 4. Finally, the categorical columns are encoded using Label Encoding.
 
+And, in Feature Engineering process,
+1. A new feature created by mulitplying latitude and longitude is used instead of using longitude and latitude separately
 
-Next, for the training I use RandomForesetModel with 300 estimators. And it is used finally to predict the functionality of the pipes in the test set.
+
+Then for the training RandomForesetModel with 300 estimators is used.  
+And it is used finally to predict the functionality of the pipes in the test set.
 
 
 ![This is an image](./Pump_It_Up.png)
